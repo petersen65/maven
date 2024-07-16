@@ -5,7 +5,7 @@
 
     <groupId>com.mercedes-benz</groupId>
     <artifactId>mbdev-infra-devops-gitflow-test-mvn</artifactId>
-    <version>5.0.0</version>
+    <version>5.0.1</version>
 
     <repositories>
         <repository>
